@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.9.26)  11 DEC 2025 00:18
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.9.26)  12 DEC 2025 00:14
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -312,8 +312,24 @@ Package: tabularx 2023/12/11 v2.12a `tabularx' package (DPC)
 \TX@delta=\dimen187
 \TX@cols=\count310
 \TX@ftn=\toks45
+) (/usr/local/texlive/2025/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2024/09/29 v3.02 LaTeX color extensions (UK)
+ (/usr/local/texlive/2025/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
-LaTeX Font Info:    Trying to load font information for T1+lmr on input line 32.
+Package xcolor Info: Driver file: pdftex.def on input line 274.
+ (/usr/local/texlive/2025/texmf-dist/tex/latex/graphics/mathcolor.ltx)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1349.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1353.
+Package xcolor Info: Model `RGB' extended on input line 1365.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1367.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1370.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1371.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1372.
+)
+LaTeX Font Info:    Trying to load font information for T1+lmr on input line 43.
  (/usr/local/texlive/2025/texmf-dist/tex/latex/lm/t1lmr.fd
 File: t1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 ) (/usr/local/texlive/2025/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
@@ -323,20 +339,20 @@ File: l3backend-pdftex.def 2024-05-08 L3 backend support: PDF output (pdfTeX)
 ) (./Quiwa_Salvador_FoodClassifier.aux)
 \openout1 = `Quiwa_Salvador_FoodClassifier.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 43.
+LaTeX Font Info:    ... okay on input line 43.
  (/usr/local/texlive/2025/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count312
@@ -357,45 +373,40 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 48
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 ))
 \c@lstlisting=\count318
-LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 50.
+LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 61.
  (/usr/local/texlive/2025/texmf-dist/tex/latex/lm/ot1lmr.fd
 File: ot1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
-LaTeX Font Info:    Trying to load font information for OML+lmm on input line 50.
+LaTeX Font Info:    Trying to load font information for OML+lmm on input line 61.
  (/usr/local/texlive/2025/texmf-dist/tex/latex/lm/omllmm.fd
 File: omllmm.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
-LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 50.
+LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 61.
  (/usr/local/texlive/2025/texmf-dist/tex/latex/lm/omslmsy.fd
 File: omslmsy.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
-LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 50.
+LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 61.
  (/usr/local/texlive/2025/texmf-dist/tex/latex/lm/omxlmex.fd
 File: omxlmex.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <9> on input line 50.
+(Font)              <9> on input line 61.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <6> on input line 50.
+(Font)              <6> on input line 61.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <5> on input line 50.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 50.
+(Font)              <5> on input line 61.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 61.
  (/usr/local/texlive/2025/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 50.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 61.
  (/usr/local/texlive/2025/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-LaTeX Font Info:    Trying to load font information for U+lasy on input line 50.
+LaTeX Font Info:    Trying to load font information for U+lasy on input line 61.
  (/usr/local/texlive/2025/texmf-dist/tex/latex/base/ulasy.fd
 File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
 )
-Overfull \hbox (10.64757pt too wide) in paragraph at lines 54--56
-\T1/lmr/m/n/9 This study in-ves-ti-gates and com-pares four ma-chine algorithms--
- []
-
-
 
 
 
@@ -403,166 +414,173 @@ Overfull \hbox (10.64757pt too wide) in paragraph at lines 54--56
 
 
 {/usr/local/texlive/2025/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}]
-Overfull \hbox (8.59732pt too wide) in paragraph at lines 105--105
- []|\T1/lmr/bx/n/7 Carbohydrates|
- []
 
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-
-
-Overfull \hbox (2.84496pt too wide) in paragraph at lines 117--118
+Overfull \hbox (2.84496pt too wide) in paragraph at lines 131--132
 []\T1/lmr/m/n/9 2. The rows were la-beled as "En-durance" if the food macronu-
  []
 
 (/usr/local/texlive/2025/texmf-dist/tex/latex/listings/lstlang1.sty
 File: lstlang1.sty 2024/09/23 1.10c listings language file
 )
-LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 123.
+LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 137.
  (/usr/local/texlive/2025/texmf-dist/tex/latex/lm/t1lmtt.fd
 File: t1lmtt.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 LaTeX Font Info:    Font shape `T1/lmtt/bx/n' in size <9> not available
-(Font)              Font shape `T1/lmtt/b/n' tried instead on input line 124.
+(Font)              Font shape `T1/lmtt/b/n' tried instead on input line 138.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
 [2]
-Overfull \hbox (3.06758pt too wide) in paragraph at lines 182--182
-[]|\T1/lmr/m/n/7 sklearn.ensemble| 
+Underfull \hbox (badness 10000) in paragraph at lines 194--194
+[]|\T1/lmr/m/n/9 sklearn.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 184--184
-[]|\T1/lmr/m/n/7 sklearn.naive
+Underfull \hbox (badness 10000) in paragraph at lines 194--195
+[]|\T1/lmr/m/n/9 Adaboost
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 186--186
-[]|\T1/lmr/m/n/7 sklearn.neural
+Underfull \hbox (badness 10000) in paragraph at lines 196--196
+[]|\T1/lmr/m/n/9 sklearn.naive
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 187--187
-[]|\T1/lmr/m/n/7 sklearn.
+Overfull \hbox (1.17215pt too wide) in paragraph at lines 198--198
+[]|\T1/lmr/m/n/9 sklearn.neural
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 187--187
-[]|\T1/lmr/m/n/7 Standard
+Overfull \hbox (1.96725pt too wide) in paragraph at lines 198--198
+[]|\T1/lmr/m/n/9 MLPClassifier| 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 187--187
-\T1/lmr/m/n/7 Scaler; La-bel
+Underfull \hbox (badness 10000) in paragraph at lines 199--199
+[]|\T1/lmr/m/n/9 sklearn.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 188--188
-[]|\T1/lmr/m/n/7 sklearn.model
+Underfull \hbox (badness 10000) in paragraph at lines 199--199
+[]|\T1/lmr/m/n/9 Standard
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 188--188
-[]|\T1/lmr/m/n/7 GridSearchCV;
+Underfull \hbox (badness 2671) in paragraph at lines 199--199
+[]|\T1/lmr/m/n/9 Standard Scaler stan-dard-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 188--188
-\T1/lmr/m/n/7 train
+Overfull \hbox (6.0615pt too wide) in paragraph at lines 200--200
+[]|\T1/lmr/m/n/9 GridSearchCV;
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 188--188
-\T1/lmr/m/n/7 _test_split;
+Underfull \hbox (badness 10000) in paragraph at lines 200--200
+\T1/lmr/m/n/9 train
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 188--188
-\T1/lmr/m/n/7 cross
+Underfull \hbox (badness 10000) in paragraph at lines 200--200
+\T1/lmr/m/n/9 _test_split;
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 188--188
-[]|\T1/lmr/m/n/7 GridSearchCV it-er-ates across
+Underfull \hbox (badness 10000) in paragraph at lines 200--200
+\T1/lmr/m/n/9 cross
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 188--188
-\T1/lmr/m/n/7 tify the best com-bi-na-tion.
+Underfull \hbox (badness 10000) in paragraph at lines 200--200
+[]|\T1/lmr/m/n/9 GridSearchCV it-er-ates
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 188--188
-\T1/lmr/m/n/7 Train_test_split es-tab-lishes
+Underfull \hbox (badness 1418) in paragraph at lines 200--200
+\T1/lmr/m/n/9 to iden-tify the best com-
  []
 
 
-Underfull \hbox (badness 1014) in paragraph at lines 188--188
-\T1/lmr/m/n/7 strat-i-fi-ca-tion to main-tain class
+Underfull \hbox (badness 10000) in paragraph at lines 200--200
+\T1/lmr/m/n/9 es-tab-lishes strat-i-fi-ca-tion
  []
 
 
-Underfull \hbox (badness 2005) in paragraph at lines 188--188
-\T1/lmr/m/n/7 dis-tri-bu-tion in train and test
+Underfull \hbox (badness 4072) in paragraph at lines 200--200
+\T1/lmr/m/n/9 to keep ra-tio of classes.
  []
 
 
-Underfull \hbox (badness 2165) in paragraph at lines 188--188
-\T1/lmr/m/n/7 sets to keep ra-tio of classes.
+Underfull \hbox (badness 10000) in paragraph at lines 200--200
+\T1/lmr/m/n/9 cross_val_score com-putes
  []
 
 
-Underfull \hbox (badness 5288) in paragraph at lines 188--188
-\T1/lmr/m/n/7 cross_val_score com-putes the
+Underfull \hbox (badness 10000) in paragraph at lines 201--201
+[]|\T1/lmr/m/n/9 sklearn.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 189--189
-[]|\T1/lmr/m/n/7 accuracy
+Underfull \hbox (badness 10000) in paragraph at lines 201--201
+[]|\T1/lmr/m/n/9 accuracy
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 189--189
-\T1/lmr/m/n/7 _score;
+Underfull \hbox (badness 10000) in paragraph at lines 201--201
+\T1/lmr/m/n/9 _score;
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 189--189
-\T1/lmr/m/n/7 f1_score;
+Underfull \hbox (badness 10000) in paragraph at lines 201--201
+\T1/lmr/m/n/9 f1_score;
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 189--189
-\T1/lmr/m/n/7 clas-si-fi-ca-
+Underfull \hbox (badness 10000) in paragraph at lines 201--201
+\T1/lmr/m/n/9 clas-si-fi-ca-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 189--189
-\T1/lmr/m/n/7 tion_report;
+Underfull \hbox (badness 10000) in paragraph at lines 201--201
+\T1/lmr/m/n/9 tion_report;
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 189--189
-\T1/lmr/m/n/7 con-fu-
+Underfull \hbox (badness 10000) in paragraph at lines 201--201
+\T1/lmr/m/n/9 con-fu-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 189--189
-\T1/lmr/m/n/7 sion_matrix;
+Underfull \hbox (badness 10000) in paragraph at lines 201--201
+\T1/lmr/m/n/9 sion_matrix;
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 189--189
-\T1/lmr/m/n/7 Con-fu-sion-Ma-
+Underfull \hbox (badness 10000) in paragraph at lines 201--201
+\T1/lmr/m/n/9 Con-fu-sion-
  []
 
 
-Overfull \hbox (8.1969pt too wide) in paragraph at lines 179--193
+Underfull \hbox (badness 10000) in paragraph at lines 201--201
+\T1/lmr/m/n/9 Ma-trixDis-
+ []
+
+
+Underfull \hbox (badness 1701) in paragraph at lines 201--201
+\T1/lmr/m/n/9 rics used to com-pare the
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 202--202
+[]|\T1/lmr/m/n/9 sklearn.
+ []
+
+
+Overfull \hbox (8.1969pt too wide) in paragraph at lines 191--205
  [][] 
  []
 
@@ -577,115 +595,99 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 [3]
-Overfull \hbox (7.65382pt too wide) in paragraph at lines 221--222
+Overfull \hbox (7.65382pt too wide) in paragraph at lines 232--233
 \T1/lmr/m/n/9 de-ter-mines how far the in-flu-ence of each train-ing point reaches.
  []
 
 
-Underfull \hbox (badness 4967) in paragraph at lines 225--226
+Underfull \hbox (badness 4967) in paragraph at lines 236--237
 \T1/lmr/m/n/9 was then used to eval-u-ate the fi-nal SVM model.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 225--226
+Underfull \hbox (badness 10000) in paragraph at lines 236--237
 
  []
 
 
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
-Overfull \hbox (8.56216pt too wide) in paragraph at lines 279--289
- [][] 
- []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
 [4]
-<naive_bayes_confusion_matrix.png, id=25, 420.6114pt x 312.2064pt>
+<naive_bayes_confusion_matrix.png, id=22, 420.6114pt x 312.2064pt>
 File: naive_bayes_confusion_matrix.png Graphic file (type png)
 <use naive_bayes_confusion_matrix.png>
-Package pdftex.def Info: naive_bayes_confusion_matrix.png  used on input line 298.
+Package pdftex.def Info: naive_bayes_confusion_matrix.png  used on input line 315.
 (pdftex.def)             Requested size: 240.0pt x 178.14052pt.
-<mlp_confusion_matrix.png, id=27, 420.6114pt x 328.8285pt>
+<mlp_confusion_matrix.png, id=24, 420.6114pt x 328.8285pt>
 File: mlp_confusion_matrix.png Graphic file (type png)
 <use mlp_confusion_matrix.png>
-Package pdftex.def Info: mlp_confusion_matrix.png  used on input line 304.
-(pdftex.def)             Requested size: 240.0pt x 187.62485pt.
-<adaboost_confusion_matrix.png, id=28, 420.6114pt x 328.8285pt>
-File: adaboost_confusion_matrix.png Graphic file (type png)
-<use adaboost_confusion_matrix.png>
-Package pdftex.def Info: adaboost_confusion_matrix.png  used on input line 310.
+Package pdftex.def Info: mlp_confusion_matrix.png  used on input line 321.
 (pdftex.def)             Requested size: 240.0pt x 187.62485pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-<svm_confusion_matrix.png, id=29, 420.6114pt x 312.2064pt>
+<adaboost_confusion_matrix.png, id=25, 420.6114pt x 328.8285pt>
+File: adaboost_confusion_matrix.png Graphic file (type png)
+<use adaboost_confusion_matrix.png>
+Package pdftex.def Info: adaboost_confusion_matrix.png  used on input line 327.
+(pdftex.def)             Requested size: 240.0pt x 187.62485pt.
+<svm_confusion_matrix.png, id=26, 420.6114pt x 312.2064pt>
 File: svm_confusion_matrix.png Graphic file (type png)
 <use svm_confusion_matrix.png>
-Package pdftex.def Info: svm_confusion_matrix.png  used on input line 316.
+Package pdftex.def Info: svm_confusion_matrix.png  used on input line 333.
 (pdftex.def)             Requested size: 240.0pt x 178.14052pt.
-
-Overfull \hbox (6.8587pt too wide) in paragraph at lines 322--323
-[]\T1/lmr/bx/n/9 MLP \T1/lmr/m/n/9 achieved the next best F1-score at 96.15% which showed
- []
-
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
 [5 <./naive_bayes_confusion_matrix.png> <./mlp_confusion_matrix.png> <./adaboost_confusion_matrix.png> <./svm_confusion_matrix.png>]
+Overfull \hbox (6.8587pt too wide) in paragraph at lines 339--340
+[]\T1/lmr/bx/n/9 MLP \T1/lmr/m/n/9 achieved the next best F1-score at 96.15% which showed
+ []
+
+
+Overfull \hbox (10.22594pt too wide) in paragraph at lines 350--352
+\T1/lmr/m/n/9 show sta-tis-ti-cally sig-nif-i-cant dif-fer-ences among the three classes
+ []
+
+
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
 [6{/usr/local/texlive/2025/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc}{/usr/local/texlive/2025/texmf-dist/fonts/enc/dvips/lm/lm-mathit.enc}{/usr/local/texlive/2025/texmf-dist/fonts/enc/dvips/lm/lm-mathsy.enc}]
-Underfull \hbox (badness 10000) in paragraph at lines 450--450
-[]|\T1/lmr/bx/n/8 Caloric
+Overfull \hbox (1.84604pt too wide) in paragraph at lines 436--436
+ []|\T1/lmr/bx/n/9 Endurance|
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 450--450
-[]|\T1/lmr/bx/n/8 Nutrition
+Underfull \hbox (badness 10000) in paragraph at lines 462--462
+[]|\T1/lmr/m/n/9 Mono-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 450--450
-[]|\T1/lmr/bx/n/8 Saturated
+Underfull \hbox (badness 10000) in paragraph at lines 462--462
+\T1/lmr/m/n/9 unsaturated
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 450--450
-[]|\T1/lmr/bx/n/8 Dietary
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 477--477
-[]|\T1/lmr/bx/n/8 Carbo-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 477--477
-[]|\T1/lmr/bx/n/8 Mono-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 477--477
-\T1/lmr/bx/n/8 unsaturated
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 477--477
-[]|\T1/lmr/bx/n/8 Poly-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 477--477
-\T1/lmr/bx/n/8 unsaturated
+Underfull \hbox (badness 10000) in paragraph at lines 464--464
+[]|\T1/lmr/m/n/9 Poly-unsaturated
  []
 
 
@@ -694,64 +696,67 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 489--490
-[]\T1/lmr/m/n/9 [2] Bet-ter Health Chan-nel, ^^PSport-ing per-for-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 489--490
-\T1/lmr/m/n/9 mance and food,^^Q Vic.gov.au, Apr. 17, 2023.
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 489--490
-\T1/lmtt/m/n/9 https : / / www . betterhealth . vic . gov . au / health /
- []
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
 [7]
-Underfull \hbox (badness 1048) in paragraph at lines 493--494
+Underfull \hbox (badness 10000) in paragraph at lines 479--480
+[]\T1/lmr/m/n/9 [2] Bet-ter Health Chan-nel, ^^PSport-ing per-for-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 479--480
+\T1/lmr/m/n/9 mance and food,^^Q Vic.gov.au, Apr. 17, 2023.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 479--480
+\T1/lmtt/m/n/9 https : / / www . betterhealth . vic . gov . au / health /
+ []
+
+
+Underfull \hbox (badness 1048) in paragraph at lines 483--484
 []\T1/lmr/m/n/9 [4] E. R. Helms, A. A. Aragon, and P. J. Fitschen,
  []
 
 
-Underfull \hbox (badness 5726) in paragraph at lines 495--496
+Underfull \hbox (badness 5726) in paragraph at lines 485--486
 []\T1/lmr/m/n/9 [5] ^^PDI-ETARY CAR-BO-HY-DRATE AND THE EN-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 495--496
+Underfull \hbox (badness 10000) in paragraph at lines 485--486
 \T1/lmr/m/n/9 DURANCE ATH-LETE: CON-TEM-PO-RARY PER-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 495--496
+Underfull \hbox (badness 10000) in paragraph at lines 485--486
 \T1/lmr/m/n/9 SPEC-TIVES,^^Q Gatorade Sports Sci-ence In-sti-tute,
  []
 
 
-Underfull \hbox (badness 1158) in paragraph at lines 495--496
+Underfull \hbox (badness 1158) in paragraph at lines 485--486
 \T1/lmr/m/n/9 2022. https://www.gssiweb.org/research/article/dietary-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 495--496
+Underfull \hbox (badness 10000) in paragraph at lines 485--486
 \T1/lmr/m/n/9 carbohydrate-and-the-endurance-athlete-contemporary-
  []
 
 
-Underfull \hbox (badness 1466) in paragraph at lines 497--498
+Underfull \hbox (badness 1466) in paragraph at lines 487--488
 \T1/lmr/m/n/9 pub-lisher.com, 2025. $\T1/lmtt/m/n/9 https : / / www . shmpublisher . com /
  []
 
 
-Underfull \hbox (badness 1325) in paragraph at lines 501--502
+Underfull \hbox (badness 1325) in paragraph at lines 491--492
 \T1/lmr/m/n/9 Sys-tem in Aca-demic En-vi-ron-ments Based on Ma-chine
  []
 
 
-Underfull \hbox (badness 1303) in paragraph at lines 507--508
+Underfull \hbox (badness 1303) in paragraph at lines 497--498
 \T1/lmtt/m/n/9 1186 / s12970-[]018-[]0215-[]1$\T1/lmr/m/n/9 . PMID: 29497353; PM-CID:
  []
 
@@ -769,18 +774,18 @@ L3 programming layer <2025-01-18>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 5521 strings out of 473190
- 79126 string characters out of 5715800
- 709217 words of memory out of 5000000
- 28666 multiletter control sequences out of 15000+600000
- 613154 words of font info for 97 fonts, out of 8000000 for 9000
+ 5982 strings out of 473190
+ 85654 string characters out of 5715800
+ 718409 words of memory out of 5000000
+ 29131 multiletter control sequences out of 15000+600000
+ 592622 words of font info for 80 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 87i,12n,93p,1238b,1294s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</usr/local/texlive/2025/texmf-dist/fonts/type1/public/lm/lmbx7.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/lm/lmbx8.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/lm/lmbx9.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/lm/lmmi9.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/lm/lmr6.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/lm/lmr7.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/lm/lmr8.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/lm/lmr9.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/lm/lmsy6.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/lm/lmsy9.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/lm/lmtk10.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/lm/lmtt9.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/lm/lmtti10.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/urw/times/utmb8a.pfb>
-Output written on Quiwa_Salvador_FoodClassifier.pdf (8 pages, 439103 bytes).
+ 87i,12n,93p,1238b,1814s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</usr/local/texlive/2025/texmf-dist/fonts/type1/public/lm/lmbx9.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/lm/lmmi9.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/lm/lmr6.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/lm/lmr9.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/lm/lmsy6.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/lm/lmsy9.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/lm/lmtk10.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/public/lm/lmtt9.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1/urw/times/utmb8a.pfb>
+Output written on Quiwa_Salvador_FoodClassifier.pdf (8 pages, 310224 bytes).
 PDF statistics:
- 128 PDF objects out of 1000 (max. 8388607)
- 76 compressed objects within 1 object stream
+ 103 PDF objects out of 1000 (max. 8388607)
+ 61 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  21 words of extra memory for PDF output out of 10000 (max. 10000000)
 
